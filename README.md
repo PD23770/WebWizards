@@ -1,2 +1,3 @@
 # WebWizards
-Zadanie rekrutacyjne
+Zadanie rekrutacyjne znajduje się w gałęzi "master".
+Piotr Dardas
